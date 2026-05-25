@@ -102,7 +102,7 @@ export default function Sidebar() {
 }
 
 function Logo({ size }: { size: number }) {
-  const [logoError, setLogoError] = React.useState(false);
+  const [logoError, setLogoError] = useState(false);
   return (
     <>
       {logoError ? (

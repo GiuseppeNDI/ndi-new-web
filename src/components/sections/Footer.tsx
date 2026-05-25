@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import { useTranslations } from 'next-intl';
 import Link from 'next/link';
 
@@ -38,7 +39,7 @@ export default function Footer() {
 }
 
 function Logo({ size }: { size: number }) {
-  const [logoError, setLogoError] = React.useState(false);
+  const [logoError, setLogoError] = useState(false);
   return (
     <>
       {logoError ? (

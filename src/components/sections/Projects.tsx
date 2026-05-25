@@ -3,7 +3,6 @@
 import { useTranslations } from 'next-intl';
 import ProjectCard from '@/components/ui/ProjectCard';
 import SectionLabel from '@/components/ui/SectionLabel';
-import { useTranslations as useT } from 'next-intl';
 
 export default function Projects() {
   const t = useTranslations('Projects');
