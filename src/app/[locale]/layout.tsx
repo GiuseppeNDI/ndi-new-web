@@ -2,7 +2,7 @@ import { Inter, Manrope } from 'next/font/google';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
-import './globals.css';
+import '../globals.css';
 import Sidebar from '@/components/layout/Sidebar';
 import Header from '@/components/layout/Header';
 import ScrollProgress from '@/components/layout/ScrollProgress';

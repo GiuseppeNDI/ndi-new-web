@@ -70,7 +70,7 @@ export default function About() {
           </div>
 
           <div className="p-6 rounded-2xl bg-surface-container border-l-4 border-primary reveal" style={{ transitionDelay: '500ms' }}>
-            <p className="text-xl font-medium italic text-on-surface mb-4">"{t('quote')}"</p>
+            <p className="text-xl font-medium italic text-on-surface mb-4">&quot;{t('quote')}&quot;</p>
             <p className="text-sm font-bold text-primary">{t('quoteAuthor')}</p>
           </div>
         </div>
