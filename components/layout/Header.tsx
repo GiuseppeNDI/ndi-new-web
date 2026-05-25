@@ -1,4 +1,5 @@
 'use client';
+import { useState } from 'react';
 
 import { useState } from 'react';
 import Link from 'next/link';
@@ -76,7 +77,7 @@ export default function Header() {
 }
 
 function Logo({ size }: { size: number }) {
-  const [logoError, setLogoError] = React.useState(false);
+  const [logoError, setLogoError] = useState(false);
   return (
     <>
       {logoError ? (
