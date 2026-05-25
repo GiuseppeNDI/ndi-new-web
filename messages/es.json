@@ -1,0 +1,192 @@
+{
+  "Common": {
+    "companyName": "Negocios Digitales Inteligentes",
+    "companyShort": "NDI",
+    "whatsappLink": "https://wa.me/51938204217?text=Hola%2C%20vi%20su%20página%20y%20quiero%20información",
+    "email": "contacto@negociosdigitalesinteligentes.com",
+    "phone": "+51960124274",
+    "address": "Centro Empresarial Patio Panorama, Av. Circunvalación Golf Los Inka, Santiago de Surco, Lima, Perú"
+  },
+  "Navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "about": "Nosotros",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "Hero": {
+    "headlinePart1": "Tecnología que",
+    "headlinePart2": "automatiza tu",
+    "headlinePart3": "negocio.",
+    "subtitle": "Soluciones de automatización, ERP a medida y plataformas SaaS para empresas que quieren crecer sin fricciones.",
+    "cta": "Hablemos de tu proyecto →",
+    "badge": "disponible · Lima, Perú · respuesta rápida",
+    "ticker": "Automatización • ERP • SaaS • POS • WhatsApp API • IA"
+  },
+  "FeaturedProduct": {
+    "label": "Producto Propio",
+    "titlePart1": "SaaS",
+    "titlePart2": "en Producción",
+    "productName": "POS Market Inteligente",
+    "badge": "Live · Producto propio",
+    "description": "POS Market Inteligente es nuestro sistema de punto de venta con inventario integrado, reportes en tiempo real, gestión multi-sucursal y módulo de facturación electrónica. Diseñado para retail, restaurantes y empresas de servicios que necesitan control total de su operación.",
+    "impact": "Desarrollado, lanzado y mantenido de forma independiente.",
+    "cta": "Solicitar demo →",
+    "subCta": "Ver más información →"
+  },
+  "Projects": {
+    "label": "Portafolio",
+    "titlePart1": "Galería de",
+    "titlePart2": "Trabajo",
+    "subtag": "Selección · Informativo",
+    "projects": {
+      "pos": {
+        "title": "POS Market Inteligente",
+        "desc": "Sistema POS con inventario integrado, facturación electrónica SUNAT, reportes multi-sucursal y gestión de caja. Desarrollado para retail y restaurantes en Perú."
+      },
+      "erp": {
+        "title": "ERP Corporativo",
+        "desc": "Sistema ERP con módulos de RRHH, contabilidad, compras y logística. Integración con SUNAT para facturación electrónica y reportería avanzada."
+      },
+      "whatsapp": {
+        "title": "Bot WhatsApp API Oficial",
+        "desc": "Agente conversacional 24/7 con respuestas automáticas, agendamiento y cotizaciones en PDF."
+      },
+      "web": {
+        "title": "Web Corporativa + SaaS",
+        "desc": "Sitios web institucionales con módulos SaaS de inventario integrados desde el día uno."
+      },
+      "ai": {
+        "title": "Automatización de Procesos IA",
+        "desc": "Integración de flujos n8n con modelos de IA para automatizar atención, clasificación de leads y reportes automáticos."
+      }
+    },
+    "ctaTitle": "Iniciar un proyecto",
+    "ctaSub": "Construyamos algo juntos"
+  },
+  "About": {
+    "label": "La empresa detrás del código",
+    "titlePart1": "Quiénes",
+    "titlePart2": "Somos",
+    "p1": "Somos un equipo de ingenieros y especialistas en automatización con sede en Lima, Perú. Llevamos más de 5 años desarrollando soluciones tecnológicas a medida para empresas que buscan escalar sus operaciones sin aumentar su carga operativa.",
+    "p2": "Nuestro enfoque combina desarrollo de software profesional con inteligencia artificial aplicada — desde bots de WhatsApp hasta sistemas ERP completos con integración SUNAT y módulos de facturación electrónica.",
+    "p3": "Cada proyecto es tratado como propio: nos involucramos desde el levantamiento de requerimientos hasta el soporte post-lanzamiento. Metodología ágil, comunicación directa y resultados medibles desde la primera entrega.",
+    "stats": {
+      "years": "años",
+      "projects": "proyectos",
+      "saas": "SaaS live"
+    },
+    "quote": "La automatización no reemplaza personas — las libera para hacer lo que solo ellas pueden hacer.",
+    "quoteAuthor": "— NDI",
+    "stackLabel": "Stack",
+    "aiLabel": "IA & Automatización",
+    "toolsLabel": "Herramientas"
+  },
+  "Services": {
+    "label": "Servicios",
+    "titlePart1": "Construyamos",
+    "titlePart2": "algo",
+    "items": {
+      "whatsapp": {
+        "title": "Automatización WhatsApp",
+        "desc": "agentes 24/7, agendas y cotizaciones en PDF"
+      },
+      "erp": {
+        "title": "ERP a Medida",
+        "desc": "sistema completo adaptado a tu operación"
+      },
+      "web": {
+        "title": "Desarrollo Web",
+        "desc": "desde landing hasta plataforma completa"
+      },
+      "saas": {
+        "title": "SaaS de Inventario",
+        "desc": "control de stock en tiempo real"
+      },
+      "pos": {
+        "title": "POS Inteligente",
+        "desc": "punto de venta con reportes integrados"
+      },
+      "ai": {
+        "title": "Integración IA",
+        "desc": "automatiza lo repetitivo, escala lo importante"
+      }
+    },
+    "process": {
+      "step1": {
+        "title": "Diagnóstico",
+        "desc": "Analizamos tu operación y definimos el alcance"
+      },
+      "step2": {
+        "title": "Desarrollo",
+        "desc": "Construimos rápido, iteramos contigo"
+      },
+      "step3": {
+        "title": "Lanzamiento",
+        "desc": "Entrega, capacitación y soporte"
+      }
+    },
+    "cta": "Hablemos de tu proyecto →"
+  },
+  "Blog": {
+    "label": "Blog",
+    "titlePart1": "Insights &",
+    "titlePart2": "Tendencias",
+    "posts": {
+      "erp": {
+        "category": "ERP",
+        "date": "mayo de 2025",
+        "readTime": "5 min read",
+        "title": "Por qué tu empresa necesita un ERP a medida y no uno genérico",
+        "excerpt": "Los ERP genéricos cubren el 70% de los procesos de cualquier empresa. El 30% restante es donde vive tu ventaja competitiva — y ningún software de caja lo va a resolver.",
+        "readMore": "Leer →"
+      },
+      "whatsapp": {
+        "category": "Automatización",
+        "date": "abril de 2025",
+        "readTime": "4 min read",
+        "title": "WhatsApp API oficial vs. soluciones no oficiales: qué arriesgas y qué ganas",
+        "excerpt": "Usar la API oficial de WhatsApp Business no es solo cumplimiento — es la diferencia entre escalar con confianza o quedarte bloqueado en el momento más importante.",
+        "readMore": "Leer →"
+      },
+      "saas": {
+        "category": "SaaS",
+        "date": "marzo de 2025",
+        "readTime": "6 min read",
+        "title": "Cómo un SaaS de inventario puede reducir tus pérdidas operativas en un 40%",
+        "excerpt": "El inventario mal gestionado es el problema silencioso que sangra la rentabilidad de cualquier negocio con stock físico. Estos son los números reales.",
+        "readMore": "Leer →"
+      }
+    },
+    "viewAll": "Ver todos"
+  },
+  "Contact": {
+    "title": "Cuéntanos sobre tu proyecto",
+    "fields": {
+      "name": "Nombre completo*",
+      "email": "Email*",
+      "company": "Empresa (opcional)",
+      "service": "Servicio de interés*",
+      "message": "Mensaje*",
+      "servicesList": [
+        "Automatización WhatsApp",
+        "ERP a Medida",
+        "Desarrollo Web",
+        "SaaS/POS Inteligente",
+        "Integración IA",
+        "Otro"
+      ]
+    },
+    "submit": "Enviar mensaje →",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado! Te contactaremos pronto.",
+    "error": "Algo salió mal. Intenta de nuevo."
+  },
+  "Footer": {
+    "available": "Disponibles para nuevos proyectos",
+    "copyright": "© 2025 Negocios Digitales Inteligentes",
+    "privacy": "Privacidad",
+    "location": "Surco, Lima, Perú"
+  }
+}
