@@ -162,6 +162,7 @@
     "viewAll": "Ver todos"
   },
   "Contact": {
+    "label": "Contacto",
     "title": "Cuéntanos sobre tu proyecto",
     "fields": {
       "name": "Nombre completo*",
